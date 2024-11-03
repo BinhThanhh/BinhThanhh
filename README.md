@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm BinhThanh who is a player of MiHoYo's games</h1>
+<h1 align="center">Hi 👋, I'm BinhThanh</h1>
+<h3 align="center">I very like to play game of MiHoYo :33</h3>
+<img src="burnice.webp"></img>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binhthanhh&show_icons=true&locale=en&layout=compact" alt="binhthanhh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binhthanhh&show_icons=true&locale=en" alt="binhthanhh" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binhthanhh" alt="binhthanhh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
