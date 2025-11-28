@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BinhThanh</h1>
 <h3 align="center">I very like to play game of MiHoYo</h3>
-<video autoplay loop><soucre src="Hyacine.webm" type="video/webm:"></video>
+<img src="Hyacine.webp"></img>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binhthanhh&show_icons=true&locale=en&layout=compact" alt="binhthanhh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binhthanhh&show_icons=true&locale=en" alt="binhthanhh" /></p>
 
